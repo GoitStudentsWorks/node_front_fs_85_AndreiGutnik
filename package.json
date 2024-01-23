@@ -2,7 +2,7 @@
   "name": "water-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goitacademy.github.io/WaterTracker_Frontend/",
+  "homepage": "https://GoitStudentsWorks.github.io/node_front_fs_85_AndreiGutnik/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.6",
     "@testing-library/jest-dom": "^5.16.3",
